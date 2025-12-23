@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "df4e",
+      "name": "amin",
+      "email": "amin@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "8ea4",
+      "name": "brahim",
+      "email": "brahim@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "9daa",
+      "name": "Ibrahim Saoudi",
+      "email": "ibra@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "e1ed",
+      "name": "1",
+      "email": "1@1",
+      "password": "1"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Burger King",
+      "address": "Anderlecht",
+      "contact": "04568635",
+      "id": "1"
+    },
+    {
+      "name": "Domino's",
+      "address": "Bruxelles",
+      "contact": "04658784",
+      "id": "2"
+    },
+    {
+      "name": "O'Bao",
+      "address": "Sint-Pieters-Leeuw",
+      "contact": "04165029",
+      "id": "c722"
+    }
+  ]
+}
